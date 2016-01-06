@@ -12,7 +12,6 @@ Plugin 'Valloric/YouCompleteMe'
 Plugin 'sirver/ultisnips'
 Plugin 'honza/vim-snippets'
 
-Plugin 'marijnh/tern_for_vim'
 Plugin 'fatih/vim-go'
 
 Plugin 'majutsushi/tagbar'
